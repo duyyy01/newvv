@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.col-mb-12{
+    padding: 0;
+}
+.introduction{
+    display: flex;
+}
+
+.container{
+}
+.footer{
+    back
+}ground-color: azure;
+    height: 200px;
+.post{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.view{
+}
+.view .fresh {
+    display: flex;
+}
+.view .fresh button {
+    background-color: green;
+    padding:0 10px;
+    margin-right: 10px;
+}
+.footer{
+    height: auto;
+}
+.footer a{
+    text-decoration: none;
+}
+.end {
+    
+    text-align: center;
+    margin-top: 40px;
+    
+}
+/* mobile*/
+
+@media screen and (max-width: 767px) {
+    .footer .row .col-md-3{
+        width: 200px;
+    }
+    .footer p{
+        margin: 0;
+    }
+}
+
+/* ipad */
+@media screen and (min-width: 1025) {
+    
+}
+/* pc */
